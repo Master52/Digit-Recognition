@@ -1,0 +1,10 @@
+computer vision hello wordl
+
+inpit->hiddien->oupt
+activation record
+
+opencv
+opening image
+converting greay scale value
+gresacle pixel value ? rgb value?
+
