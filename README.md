@@ -8,6 +8,6 @@ Implimentaion of MNIST handwritten dataset using Neural Network
 * keras
 
 ## usage 
-''' 
+```
 python3 digits.py
-'''
+```
